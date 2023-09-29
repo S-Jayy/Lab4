@@ -1,0 +1,152 @@
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\appsettings.Development.json
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\appsettings.json
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\MyWebApplication.staticwebassets.runtime.json
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\MyWebApplication.exe
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\MyWebApplication.deps.json
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\MyWebApplication.runtimeconfig.json
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\MyWebApplication.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\MyWebApplication.pdb
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.AssemblyInfoInputs.cache
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.AssemblyInfo.cs
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.csproj.CoreCompileInputs.cache
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.RazorAssemblyInfo.cache
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.RazorAssemblyInfo.cs
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\staticwebassets\msbuild.MyWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.MyWebApplication.props
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApplication.props
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyWebApplication.props
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\staticwebassets.build.json
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\staticwebassets.development.json
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\scopedcss\bundle\MyWebApplication.styles.css
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\scopedcss\projectbundle\MyWebApplication.bundle.scp.css
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\refint\MyWebApplication.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.pdb
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.genruntimeconfig.cache
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\ref\MyWebApplication.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Azure.Core.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Azure.Identity.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Humanizer.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\System.CodeDom.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.csproj.AssemblyReference.cache
+D:\Skul\APC\Third Year\Entjava\New folder\MyWebApplication\MyWebApplication\obj\Debug\net7.0\MyWebApplication.csproj.CopyComplete
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\appsettings.Development.json
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\appsettings.json
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\MyWebApplication.staticwebassets.runtime.json
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\MyWebApplication.exe
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\MyWebApplication.deps.json
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\MyWebApplication.runtimeconfig.json
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\MyWebApplication.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\MyWebApplication.pdb
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Azure.Core.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Azure.Identity.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Humanizer.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\System.CodeDom.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.csproj.AssemblyReference.cache
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.AssemblyInfoInputs.cache
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.AssemblyInfo.cs
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.csproj.CoreCompileInputs.cache
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.RazorAssemblyInfo.cache
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.RazorAssemblyInfo.cs
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\staticwebassets\msbuild.MyWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\staticwebassets\msbuild.build.MyWebApplication.props
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApplication.props
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyWebApplication.props
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\staticwebassets.build.json
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\staticwebassets.development.json
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\scopedcss\bundle\MyWebApplication.styles.css
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\scopedcss\projectbundle\MyWebApplication.bundle.scp.css
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.csproj.CopyComplete
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\refint\MyWebApplication.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.pdb
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\MyWebApplication.genruntimeconfig.cache
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\obj\Debug\net7.0\ref\MyWebApplication.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\Skul\APC\Third Year\Entjava\Lab Exercise 3\LabExercise3\bin\Debug\net7.0\System.IO.Packaging.dll
